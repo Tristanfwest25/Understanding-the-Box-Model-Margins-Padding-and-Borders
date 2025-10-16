@@ -3,20 +3,31 @@
     height: 100px;
 }
 
-.box-1 {
+.card-1 {
     padding: 50px;
     border: 10px solid green;
     margin: 20px; 
+    background-color: rgb(67, 58, 58);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.box-2 {
+.card-2 {
     padding: 20px;
     border: 5px dashed blue;
     margin: 30px; 
+    background-color: rgb(67, 58, 58);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.box-3 {
+.card-3 {
     padding: 10px;
     border: 2px dotted red;
-    margin: 40px; 
+    margin: 40px;
+    background-color: rgb(67, 58, 58); 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+    color: rgb(86, 182, 51);
+    font-size: 20px;
+    padding: 20px;
 }
 h1 {
     color: rgb(31, 210, 31);
