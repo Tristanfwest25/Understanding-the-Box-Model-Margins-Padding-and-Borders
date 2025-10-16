@@ -1,41 +1,41 @@
 .box1, .box2, .box3 {
-    width: 200px;
-    height: 100px;
+  width: 200px;
+  height: 100px;
 }
 
 .card-1 {
-    padding: 50px;
-    border: 10px solid green;
-    margin: 20px; 
-    background-color: rgb(67, 58, 58);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 50px;
+  border: 10px solid green;
+  margin: 20px;
+  background-color: rgb(67, 58, 58);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .card-2 {
-    padding: 20px;
-    border: 5px dashed blue;
-    margin: 30px; 
-    background-color: rgb(67, 58, 58);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 20px;
+  border: 5px dashed blue;
+  margin: 30px;
+  background-color: rgb(67, 58, 58);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .card-3 {
-    padding: 10px;
-    border: 2px dotted red;
-    margin: 40px;
-    background-color: rgb(67, 58, 58); 
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 10px;
+  border: 2px dotted red;
+  margin: 40px;
+  background-color: rgb(67, 58, 58);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 p {
-    color: rgb(86, 182, 51);
-    font-size: 20px;
-    padding: 20px;
+  color: rgb(86, 182, 51);
+  font-size: 20px;
+  padding: 20px;
 }
 h1 {
-    color: rgb(31, 210, 31);
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 50px;
-    padding: 30px;
+  color: rgb(31, 210, 31);
+  font-family: "Times New Roman", Times, serif;
+  font-size: 50px;
+  padding: 30px;
 }
 body {
-    background-color: rgb(0, 0, 0);
-    font-family: Arial, sans-serif;
+  background-color: rgb(0, 0, 0);
+  font-family: Arial, sans-serif;
 }
